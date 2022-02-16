@@ -5,7 +5,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div className="bg-brandColor ">
+    <div className="bg-primary ">
       <div className=" container mx-auto h-11 flex items-center justify-between">
         <a href="https://getir.com/">
           <img

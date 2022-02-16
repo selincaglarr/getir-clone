@@ -7,9 +7,13 @@ module.exports = {
         body: ["Open-Sans", "sans-serif"],
       },
       colors: {
-        brandColor: "#5d3ebc",
+        primary: "#4c3398",
+        secondary:"#5d3ebc",
+        teritary:"#7849f7"
       },
     },
-    plugins: [],
+    plugins: [
+ 
+    ],
   },
 };
