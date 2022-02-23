@@ -8,7 +8,7 @@ const Category = ({ category: { id, title, image } }) => {
         src={image}
         alt={title}
       ></img>
-      <span className="text-sm font-semibold text-gray-700">{title}</span>
+      <span className="text-sm font-semibold text-gray-700 whitespace-nowrap">{title}</span>
     </a>
   );
 };
